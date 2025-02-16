@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3c2a031.css",
+    "main.js": "/static/js/main.6ecdf7bc.js",
+    "static/media/image17.avif": "/static/media/image17.272b123f1b05b23936d3.avif",
+    "static/media/image22.avif": "/static/media/image22.47dabbc40c10c7993612.avif",
+    "static/media/image9.avif": "/static/media/image9.d17ecc6537a6ad0d8be4.avif",
+    "static/media/image2.avif": "/static/media/image2.54147c9fe5e1eee55df6.avif",
+    "static/media/image11.avif": "/static/media/image11.73cb2853596e98fa6ea3.avif",
+    "static/media/image3.avif": "/static/media/image3.6c66a05c2916cf5948e2.avif",
+    "static/media/image7.avif": "/static/media/image7.1e5409306f061024bff0.avif",
+    "static/media/image20.avif": "/static/media/image20.72917c9746dfc267f07a.avif",
+    "static/media/image15.avif": "/static/media/image15.f25c128f95a9245d5892.avif",
+    "static/media/image14.webp": "/static/media/image14.4be8c57a446bde17a517.webp",
+    "static/media/image5.avif": "/static/media/image5.d9a04b659340a1b73a1a.avif",
+    "static/media/image10.avif": "/static/media/image10.7c820fe66c94edd9633e.avif",
+    "static/media/image12.avif": "/static/media/image12.84a6039306bda51d19a1.avif",
+    "static/media/image16.avif": "/static/media/image16.436738fb674307167f5c.avif",
+    "static/media/image25.avif": "/static/media/image25.44c1f33aec9edb13e992.avif",
+    "static/media/image1.avif": "/static/media/image1.e5500ae81e61098b5744.avif",
+    "static/media/image23.avif": "/static/media/image23.786886a04f77c68f67c2.avif",
+    "static/media/image24.avif": "/static/media/image24.6b273016b224dca58c75.avif",
+    "static/media/image8.avif": "/static/media/image8.dc340ba095ee7bf3741d.avif",
+    "static/media/image19.avif": "/static/media/image19.18c21be61002d06d933e.avif",
+    "static/media/image4.avif": "/static/media/image4.214cd31e8d74b8bc5077.avif",
+    "static/media/image6.avif": "/static/media/image6.cc0d43be34a7b9ddf8b4.avif",
+    "static/media/image13.avif": "/static/media/image13.8796cf1e6481e95c062c.avif",
+    "static/media/image21.avif": "/static/media/image21.5f5f5c25a32c7f29b94f.avif",
+    "static/media/image18.avif": "/static/media/image18.448545ceedd120e02b38.avif",
+    "index.html": "/index.html",
+    "main.b3c2a031.css.map": "/static/css/main.b3c2a031.css.map",
+    "main.6ecdf7bc.js.map": "/static/js/main.6ecdf7bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3c2a031.css",
+    "static/js/main.6ecdf7bc.js"
+  ]
+}
