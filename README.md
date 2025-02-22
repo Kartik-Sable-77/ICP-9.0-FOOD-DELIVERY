@@ -31,8 +31,8 @@ npm install
 # Start the development server
 npm start
 ```
-# Deployment
-## The project is deployed on Netlify. To deploy manually:
+## Deployment
+The project is deployed on Netlify. To deploy manually:
 ```
 # Build the project
 npm run build
@@ -41,8 +41,8 @@ npm run build
 netlify deploy --prod
 
 ```
-# Contributing
-## Feel free to submit issues or pull requests to improve the project.
+## Contributing
+Feel free to submit issues or pull requests to improve the project.
 
-# License
-## This project is open-source and available under the MIT License.
+## License
+This project is open-source and available under the MIT License.
