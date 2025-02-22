@@ -17,7 +17,7 @@ Snap Eats is a modern food ordering web application built using React, Tailwind 
 - **Hosting**: Netlify
 
 ## Installation & Setup
-```bash
+```
 # Clone the repository
 git clone https://github.com/your-username/snap-eats.git
 
@@ -27,10 +27,22 @@ cd snap-eats
 # Install dependencies
 npm install
 
+
 # Start the development server
 npm start
+```
+# Deployment
+## The project is deployed on Netlify. To deploy manually:
+```
 # Build the project
 npm run build
 
 # Deploy using Netlify CLI
 netlify deploy --prod
+
+```
+# Contributing
+## Feel free to submit issues or pull requests to improve the project.
+
+# License
+## This project is open-source and available under the MIT License.
